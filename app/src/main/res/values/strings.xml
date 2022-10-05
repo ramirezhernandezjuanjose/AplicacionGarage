@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Garage Box</string>
+    <string name="item_1">bienbenida</string>
+    <string name="item_2">quienes somos? </string>
+    <string name="item_3">mision</string>
+    <string name="item_4">vision </string>
+    <string name="logo">logo </string>
+    <string name="misiont">Fomentar el bienestar físico y psíquico de nuestros socios, prestando servicios integrales que combinan actividades deportivas y servicios de SPA, en un entorno seguro, cómodo y con  maquinas y equipos de primer nivel. Todo en un marco de excelencia en el servicio.</string>
+    <string name="visiont"> Ser un referente importante  en la región del valle del cauca, reconocidos como una empresa sólida que desarrolla servicios de SPA y Actividades Deportivas, que por la calidad del servicio prestado y el nivel  de preparación de sus profesionales, permiten que sus clientes sientan un alto nivel de satisfacción personal al término de los distintos programas que contrata.</string>
+    <string name="buton">REGRESAR</string>
+    <string name="bienbenidat">Aprendo cada día que estar contigo es la fortaleza de mi vida, por todo lo que me das, por todo lo que me otorgas, por tu amor incondicional, muchas pero muchas gracias Una de esas frases de agradecimiento que se basan en lo simple</string>
+</resources>
